@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  /* background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1019%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(21%2c 67%2c 96%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c521.86C99.192%2c512.592%2c190.623%2c479.827%2c279.716%2c435.246C378.401%2c385.866%2c487.89%2c343.276%2c545.268%2c249.016C605.202%2c150.557%2c616.709%2c27.73%2c596.902%2c-85.822C577.413%2c-197.552%2c526.969%2c-310.088%2c435.943%2c-377.747C350.333%2c-441.38%2c226.385%2c-394.339%2c127.62%2c-434.634C11.195%2c-482.134%2c-60.871%2c-649.04%2c-185.344%2c-631.222C-305.16%2c-614.071%2c-358.007%2c-465.467%2c-412.386%2c-357.334C-457.535%2c-267.554%2c-460.093%2c-167.522%2c-468.878%2c-67.414C-477.164%2c27.011%2c-487.388%2c119.713%2c-462.27%2c211.112C-433.786%2c314.756%2c-404.658%2c430.889%2c-315.453%2c490.855C-225.953%2c551.019%2c-107.374%2c531.892%2c0%2c521.86' fill='%23133d57'%3e%3c/path%3e%3cpath d='M1440 1160.7640000000001C1549.876 1140.665 1591.751 1002.656 1687.34 944.869 1787.174 884.5160000000001 1929.096 906.1600000000001 2006.105 818.531 2089.173 724.0070000000001 2126.6549999999997 588.395 2110.253 463.632 2093.784 338.358 2001.368 240.752 1917.699 146.072 1834.755 52.21300000000002 1752.589-65.31100000000004 1628.4-81.63099999999997 1505.471-97.78599999999994 1409.902 19.063999999999965 1294.409 64.16199999999998 1191.858 104.20600000000002 1075.222 101.132 988.0740000000001 168.404 889.951 244.147 798.058 342.562 775.784 464.5 753.269 587.757 804.269 713.471 868.9 820.813 929.143 920.867 1026.401 987.6759999999999 1126.758 1047.414 1224.145 1105.384 1328.515 1181.158 1440 1160.7640000000001' fill='%23174969'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1019'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e"); */
+  background-image:url('./cool-background.png');
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
